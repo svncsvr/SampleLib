@@ -1,0 +1,9 @@
+C:\Users\can.suvari\test\SampleApi\bin\Debug\netstandard2.0\SampleApi.deps.json
+C:\Users\can.suvari\test\SampleApi\bin\Debug\netstandard2.0\SampleApi.dll
+C:\Users\can.suvari\test\SampleApi\bin\Debug\netstandard2.0\SampleApi.pdb
+C:\Users\can.suvari\test\SampleApi\obj\Debug\netstandard2.0\SampleApi.csprojAssemblyReference.cache
+C:\Users\can.suvari\test\SampleApi\obj\Debug\netstandard2.0\SampleApi.csproj.CoreCompileInputs.cache
+C:\Users\can.suvari\test\SampleApi\obj\Debug\netstandard2.0\SampleApi.AssemblyInfoInputs.cache
+C:\Users\can.suvari\test\SampleApi\obj\Debug\netstandard2.0\SampleApi.AssemblyInfo.cs
+C:\Users\can.suvari\test\SampleApi\obj\Debug\netstandard2.0\SampleApi.dll
+C:\Users\can.suvari\test\SampleApi\obj\Debug\netstandard2.0\SampleApi.pdb
